@@ -1,0 +1,52 @@
+Stock : the capital raised by a company or corporation through the issue and subscription of shares.
+
+Share : The capital of a company is divided into shares. Each share forms a unit of ownership of a company and is offered for sale so as to raise capital for the company.
+
+Description: Shares can be broadly divided into two categories - equity and preference shares. Equity shares give their holders the power to share the earnings/profits in the company as well as a vote in the AGMs of the company. Such a shareholder has to share the profits and also bear the losses incurred by the company. Equity shareholders are regarded as the real owners of the company. When the shares are offered for sale directly by the company for the first time, they are offered in the primary market, whereas the trading of shares takes place in the secondary market.
+
+P/E (ttm): The price-to-earnings ratio (P/E ratio) is calculated as a stock's current share price divided by its earnings per share (EPS) for a twelve-month period (usually the last 12 months, or trailing twelve months (TTM)).
+
+EPS (ttm) : A company’s profits or earnings are divided by the total number of outstanding shares of stock to calculate the Earnings per Share (ttm). Earnings per Share is usually abbreviated as EPS and the “ttm” that follows stands for Trailing Twelve Months. This means that EPS (ttm) is the total earnings or profits the company has made over the last 12 months. = (NET Earning - Dividend on Preferred Stock)/Avg outstanding shares.
+
+Market capitalization (market cap) : is the total market value of the shares outstanding of a publicly traded company; it is equal to the share price times the number of shares outstanding.
+
+Debt/Equity Ratio : is a debt ratio used to measure a company's financial leverage, calculated by dividing a company's total liabilities by its stockholders' equity. The D/E ratio indicates how much debt a company is using to finance its assets relative to the amount of value represented in shareholders' equity.
+
+Reference : http://www.liberatedstocktrader.com/stock-price/
+
+Stock Price : Last Trade
+If a stock is currently trading, e.g. the Stock Exchange on which it is being traded is open, then you will see the Last Price.  This is the price at which the stock last changed hands from seller to buyer.  This changes often.  One important thing to note is this example is from the LSE the London Stock Exchange and stock prices here are quoted in Pence.  There are of course 100 Pence in a Pound.  This “Last Price” is not 221.50 pounds, but 221.50 pence, or approximately 2.21 GBP (Great British Pounds).  In the US stock markets prices are quoted in $ US Dollars.  So if you trade US you will see a stock price of $2.21.
+
+Stock Price : Trade Time
+This is the time at which the last share was traded.  Here you see 5:02 AM EDT (Eastern Daylight Time)
+
+Stock Price : Change
+This is the difference between the last closing price and the current price (Last Price).  Here we see that British Airways has increased 2.55% since the previous days close.
+
+Stock Price : Prev. Close (Previous Close)
+This is the stock price of the last transaction of the previous days trading.
+
+Stock Price : Open
+Now it gets interesting.  The open price is the price at which the first share was traded for the current trading day.  Here we see that the share price opened at 219.9, but the previous close was 216.  This means the stock price gapped up on open by 0.2% (the difference between open price and previous close).
+
+Stock Price : Bid – The Price a Buyer Bids to buy a stock.
+The Bid Price can be tricky to remember.  The Bid Price is the current market price offered for the stock.  So if you were to sell the stock now at “Market Price” you which get roughly this price per share 221.30.  The easy way to remember this is “BID TO GET RID”.  The BID is the price you would get when you want to get RID of the stock.
+
+Stock Price : Ask
+The Ask or Asking Price is the opposite side of the trade to the Bid Price.  If you want to buy a stock this is the price that someone else is ASKING for it.  The Ask is the current price that it will cost you to buy each stock.  An easy way to remember this is “ASK TO BUY”
+But why is there a difference?  If one person is selling the stock at BID 221.30 and another is buying the Stock at ASK 221.50,  there is a difference of 0.2 pence per share (in this case less than 0.1%).  This is called the spread.
+
+Stock Price : Spread
+In the case of British Airways on the London Stock Exchange lots of shares are traded every day.  So the people handling the transaction between the buyers and the sellers have no problem finding matching partners for the transaction.  When a stock is traded a lot, it means it is very Liquid, or has a lot of Liquidity.  A very liquid stock generally means there is a low BID / ASK Spread.  When a stock is very rarely traded and the buyers and sellers cannot agree on a price to make a trade, then the spreads tend to be larger.  Where does this difference in the BID and ASK Price go.  The spread is usually the fee for the Market Maker / Broker or Specialist handling the transaction.  This is not the same as the Stock Broker Fee, which you will pay per trade to your broker, for example the $9.99 per trade that goes to TDAmeritrade or other discount brokers.
+
+Stock Price : Days Range
+This is the range within which the stock price moved up or down for the current trading day.
+
+Stock Price : 52w Range
+The 52 week range is the value between which the stock price has moved within the last 52 weeks.  Here we can see that the stock price for the last year has fluctuated between 130.80 and 255.80, so we know the current share price is towards the higher end of the 52 week range.
+
+Stock Price : Volume
+Finally we see the volume.  This is how many shares have changed hands during the current trading day.  Here we see nearly 2.5 million individual shares changed hands today.
+
+
+https://www.quandl.com/data/SF1/AAPL_MARKETCAP-APPLE-INC-NASDAQ-AAPL-Market-Capitalization
